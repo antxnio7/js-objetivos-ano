@@ -3,3 +3,4 @@
 
 
 ![Alura Start-Javascript_ organizando seu projeto de vida com matemática aplicada](https://github.com/marcelopaludetto/js-projeto/assets/78444171/079f241f-8121-477e-b64c-a5251c2e306d)
+.
